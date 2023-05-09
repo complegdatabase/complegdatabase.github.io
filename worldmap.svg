@@ -14,11 +14,12 @@
 	 opacity: 0.5;
 	} </style>
 
-	<text class="label" style = "font-family:'Segoe UI';font-size:380%;font-weight:bold;fill:#0A3b76" id="country-name" x="15" y="490"> </text>
-	<text class="label" style = "font-family:'Segoe UI';font-size:190%;fill:#4682B4" id="country-parliament" x="15" y="518"> </text>
-	<text class="label" style = "font-family:'Segoe UI';font-size:190%;fill:#4682B4" id="country-parliament-2" x="15" y="540"> </text>
-	<text class="label" style = "font-family:'Segoe UI';font-size:55;font-weight:bold;fill:#0A3b76" id="contribute" x="470" y="600"> </text>
-	<text class="label" style = "font-family:'Segoe UI';font-size:30;fill:#4682B4" id="learn-more" x="475" y="630"> </text>
+	<text class="label" style = "font-family:-apple-system,BlinkMacSystemFont,'Segoe UI';font-size:190%;fill:#4682B4" id="country-parliament-2" x="15" y="540"> </text>
+	<text class="label" style = "font-family:-apple-system,BlinkMacSystemFont,'Segoe UI';font-size:380%;font-weight:bold;fill:#0A3b76" id="country-name" x="15" y="490"> </text>
+	<text class="label" style = "font-family:-apple-system,BlinkMacSystemFont,'Segoe UI';font-size:175%;fill:#4682B4" id="country-parliament" x="15" y="518"> </text>
+	<text class="label" style = "font-family:-apple-system,BlinkMacSystemFont,'Segoe UI';font-size:175%;fill:#4682B4" id="country-parliament-2" x="15" y="540"> </text>
+	<text class="label" style = "font-family:-apple-system,BlinkMacSystemFont,'Segoe UI';font-size:55;font-weight:bold;fill:#0A3b76" id="contribute" x="470" y="600"> </text>
+	<text class="label" style = "font-family:-apple-system,BlinkMacSystemFont,'Segoe UI';font-size:30;fill:#4682B4" id="learn-more" x="475" y="630"> </text>
 
   <script type="text/javascript"> <![CDATA[
      function colourCountry(country_name, colour) {
