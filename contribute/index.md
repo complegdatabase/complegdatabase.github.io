@@ -102,4 +102,4 @@ The Comparative Legislators Database (CLD) is a team effort comprised of volunte
 
 The CLD is a relational database. The joins in the database are based on two keys - the <span style="color:#cc0065">Wikipedia page ID</span> or the <span style="color:#cc0065">Wikidata ID</span> of the individual legislators. If your database contains either key, you can easily integrate with the CLD.
 
-You can let us know about your database [through an issue on GitHub](https://github.com/saschagobel/legislatoR/issues/new) to include this information with the data coverage in the site.
+Let us know about your data that you think should be integrated with the CLD by sending a message to [info@complegdatabase.com](info@complegdatabase.com).
