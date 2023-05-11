@@ -60,4 +60,4 @@ We acknowledge financial support for this project by the <a class="updates" href
 
 <h3 class="legislator-blue">Contact</h3>
 
-Do you have questions or suggestions? Feel free to [email us](goebel@soz.uni-frankfurt.de) or [reach out on Twitter](https://twitter.com/complegdatabase).
+Do you have questions or suggestions? Feel free to [email us](info@complegdatabase.com) or [reach out on Twitter](https://twitter.com/complegdatabase).
