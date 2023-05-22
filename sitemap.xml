@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://complegdatabase.com/</loc>
+  <lastmod>2023-05-22T16:27:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://complegdatabase.com/about/</loc>
+  <lastmod>2023-05-22T16:27:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://complegdatabase.com/data/</loc>
+  <lastmod>2023-05-22T16:27:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://complegdatabase.com/legislator/</loc>
+  <lastmod>2023-05-22T16:27:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://complegdatabase.com/contribute/</loc>
+  <lastmod>2023-05-22T16:27:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://complegdatabase.com/privacy-policy.html</loc>
+  <lastmod>2023-05-22T16:27:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://complegdatabase.com/blog/2023/04/15/version-release/</loc>
+  <lastmod>2023-05-22T16:27:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://complegdatabase.com/blog/2021/02/23/cld-bjps/</loc>
+  <lastmod>2023-05-22T16:27:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://complegdatabase.com/blog/</loc>
+  <lastmod>2023-05-22T16:27:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://complegdatabase.com/data/legislator/</loc>
+  <lastmod>2023-05-22T16:27:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://complegdatabase.com/data/structure/</loc>
+  <lastmod>2023-05-22T16:27:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://complegdatabase.com/tutorial/</loc>
+  <lastmod>2023-05-22T16:27:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://complegdatabase.com/tutorial/getting-the-files/</loc>
+  <lastmod>2023-05-22T16:27:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://complegdatabase.com/tutorial/entities/</loc>
+  <lastmod>2023-05-22T16:27:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://complegdatabase.com/tutorial/collecting-the-data/</loc>
+  <lastmod>2023-05-22T16:27:09+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
+</urlset>
