@@ -17,7 +17,7 @@ The Comparative Legislators Database (CLD) is a team effort comprised of volunte
 <p class="team-uni">Hertie School</p>
 <ul class="ist-inline team-social">
 <li class="list-inline-item">
-<a href="mailto:goebel@hertie-school.org>
+<a href="mailto:goebel@hertie-school.org">
 <i class="fa fa-envelope team-social-icon"></i>
 </a>
 </li>
