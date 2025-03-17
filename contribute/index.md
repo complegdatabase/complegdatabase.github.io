@@ -14,21 +14,16 @@ The Comparative Legislators Database (CLD) is a team effort comprised of volunte
 </div>
 <div class="col-12 col-sm-12 col-md-4 col-lg-4">
 <h4 class="team-name">Sascha Göbel</h4>
-<p class="team-uni">Goethe University Frankfurt am Main</p>
+<p class="team-uni">Hertie School</p>
 <ul class="ist-inline team-social">
 <li class="list-inline-item">
-<a href="mailto:sascha.goebel@soz.uni-frankfurt.de">
+<a href="mailto:goebel@hertie-school.org>
 <i class="fa fa-envelope team-social-icon"></i>
 </a>
 </li>
 <li class="list-inline-item">
 <a target="_blank" href="https://saschagobel.github.io/">
 <i class="fa fa-globe team-social-icon"></i>
-</a>
-</li>
-<li class="list-inline-item">
-<a target="_blank" href="https://scholar.google.com/citations?user=DpIVnC8AAAAJ&hl=en">
-<i class="fa fa-graduation-cap team-social-icon"></i>
 </a>
 </li>
 </ul>
@@ -48,16 +43,6 @@ The Comparative Legislators Database (CLD) is a team effort comprised of volunte
 <li class="list-inline-item">
 <a target="_blank" href="https://simonmunzert.github.io/">
 <i class="fa fa-globe team-social-icon"></i>
-</a>
-</li>
-<li class="list-inline-item">
-<a target="_blank" href="https://twitter.com/simonsaysnothin">
-<i class="fa fa-twitter team-social-icon"></i>
-</a>
-</li>
-<li class="list-inline-item">
-<a target="_blank" href="https://scholar.google.de/citations?user=hIMdRkMAAAAJ&hl=en">
-<i class="fa fa-graduation-cap team-social-icon"></i>
 </a>
 </li>
 </ul>
@@ -81,14 +66,39 @@ The Comparative Legislators Database (CLD) is a team effort comprised of volunte
 <i class="fa fa-globe team-social-icon"></i>
 </a>
 </li>
+</ul>
+</div>
+<div class="col-6 col-sm-6 col-md-2 col-lg-2">
+<img class="mx-auto rounded-circle team-member" src="../img/contributors/juanfelipequinones.jpg" alt="juanfelipequinones">
+</div>
+<div class="col-12 col-sm-12 col-md-4 col-lg-4">
+<h4 class="team-name">Juan Felipe Quinones</h4>
+<p class="team-uni">Hertie School</p>
+<ul class="ist-inline team-social">
 <li class="list-inline-item">
-<a target="_blank" href="https://twitter.com/seramirezruiz">
-<i class="fa fa-twitter team-social-icon"></i>
+<a href="mailto:quinonesjuan2257@gmail.com">
+<i class="fa fa-envelope team-social-icon"></i>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="row">
+<div class="col-6 col-sm-6 col-md-2 col-lg-2">
+<img class="mx-auto rounded-circle team-member" src="../img/contributors/paulelvisotto.jpeg" alt="paulelvisotto">
+</div>
+<div class="col-12 col-sm-12 col-md-4 col-lg-4">
+<h4 class="team-name">Paul Elivs Otto</h4>
+<p class="team-uni">Hertie School</p>
+<ul class="ist-inline team-social">
+<li class="list-inline-item">
+<a href="mailto:contact@paul-elvis.tech">
+<i class="fa fa-envelope team-social-icon"></i>
 </a>
 </li>
 <li class="list-inline-item">
-<a target="_blank" href="https://scholar.google.com/citations?user=Gbqiu-AAAAAJ&hl=en">
-<i class="fa fa-graduation-cap team-social-icon"></i>
+<a target="_blank" href="https://paul-elvis.tech/">
+<i class="fa fa-globe team-social-icon"></i>
 </a>
 </li>
 </ul>
