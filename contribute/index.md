@@ -3,7 +3,7 @@ layout: page
 title: Contribute to the CLD
 ---
 
-The Comparative Legislators Database (CLD) is a team effort comprised of volunteer developers from multiple academic institutions. If you would like to contribute to the database by adding a new legislature, or adding data for a new legislative term, you can follow the instructions in <a class="updates" href="{{ site.baseurl }}/tutorial">this tutorial</a>.
+The Comparative Legislators Database (CLD) is a team effort comprised of volunteer developers. If you would like to contribute to the database by adding a new legislature, or adding data for a new legislative term, you can follow the instructions in <a class="updates" href="{{ site.baseurl }}/tutorial">this tutorial</a>.
 
 <p><h3><span class="legislator-blue">Contributors</span> <span style="color:#bebebe">(in order of joining)</span></h3></p>
 
