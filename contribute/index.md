@@ -69,7 +69,7 @@ The Comparative Legislators Database (CLD) is a team effort comprised of volunte
 </ul>
 </div>
 <div class="col-6 col-sm-6 col-md-2 col-lg-2">
-<img class="mx-auto rounded-circle team-member" src="../img/contributors/juanfelipequinones.jpg" alt="juanfelipequinones">
+<img class="mx-auto rounded-circle team-member" src="../img/contributors/juanfelipequinones.jpeg" alt="juanfelipequinones">
 </div>
 <div class="col-12 col-sm-12 col-md-4 col-lg-4">
 <h4 class="team-name">Juan Felipe Quinones</h4>
